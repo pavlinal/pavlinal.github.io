@@ -1,6 +1,5 @@
-title : Pavlina Lejskova's Professional Website
-author :
-  name : Pavlina Lejskova
-  email : pavlina.lejskova@gmail.com
-  github : plejskova
-  twitter : plejskova
+name: "Pavlina Lejskova's Personal Website"
+
+markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
