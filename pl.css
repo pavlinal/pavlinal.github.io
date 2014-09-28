@@ -1,0 +1,167 @@
+body{
+background-color: white;
+margin: 0px;
+text-align: center;
+font-family: verdana;
+font-size:13px;
+color:#8f9093;
+background-image: url('l/bg.png');
+background-repeat: repeat;
+text-align: center; /* for IE */ 
+}
+
+#wrapper{
+ text-align: left; /* reset text alignment */ 
+ width: 589px; /* or a percentage, or whatever */ 
+ margin: 0 auto; /* for the other browsers */
+}
+
+#upperMenu{
+width: 589px;
+height: 20px;
+background-image: url('l/upperMenu.jpg');
+background-repeat: no-repeat;
+float:left;
+}
+
+#upperMenuLinks{
+font-family: arial;
+font-size:18px;
+padding-top:4px;
+padding-bottom:0px;
+padding-right:0px;
+padding-left:10px;
+}
+
+#lowerMenu{
+width: 589px;
+height: 24px;
+background-image: url('l/lowerMenu.jpg');
+background-repeat:no-repeat;
+float:left;
+}
+
+#lowerMenuLinks{
+font-family: arial;
+font-variant:small-caps;
+font-size:120%;
+padding-top:3px;
+padding-bottom:0px;
+padding-right:0px;
+padding-left:0px;
+text-align: center;
+}
+
+#header{
+width: 589px;
+height: 285px;
+background-image: url('l/header.jpg');
+background-repeat: no-repeat;
+float:left;
+}
+
+#footer{
+width: 589px;
+height: 65px;
+background-image: url('l/footer.jpg');
+background-repeat: no-repeat;
+float:left;
+}
+
+#footerText{
+padding-top:10px;
+text-align: center;
+color: #edc88d;
+font-family: arial;
+font-variant: small-caps;
+font-size:90%;
+}
+
+#body{
+width: 589px;
+background-image: url('l/body.jpg');
+background-repeat:repeat-y;
+float:left;
+}
+
+#textBox{
+padding-top:25px;
+padding-bottom:25px;
+padding-right:25px;
+padding-left:25px
+}
+
+#text{
+text-align:justify;
+}
+
+#resumeText{
+font-size: 85%;
+text-align:left;
+}
+
+#icon{
+height:25px;
+width:25px;
+}
+
+#profilePic{
+float:left;
+width: 80px;
+height: 128px;
+margin-right: 10px;
+border: solid 1px #edab8d;
+}
+
+.screenshots{
+text-align: center;
+}
+
+.screenshotPic{
+height:150px;
+border: solid 1px #edab8d;
+}
+
+.layouts{
+height:200px;
+border: solid 1px #edab8d;
+}
+
+#layouts{
+text-align: center;
+}
+
+h1{
+color: #e37037;
+font-family: arial;
+font-variant:small-caps;
+font-size:120%;
+text-align: center;
+line-height:120%;
+}
+
+h3{
+color: #edab8d;
+font-family: arial;
+font-variant:small-caps;
+font-size:100%;
+line-height:1%;
+}
+
+.line{
+border:0;
+color: #edab8d;
+background-color: #edab8d;
+height: 1px;
+}
+
+
+a:link, a:active, a:visited {
+color: #edab8d;
+text-decoration: none;
+}
+
+a:hover {
+color: #9a522e;
+text-decoration: none;
+}

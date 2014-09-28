@@ -1,5 +1,13 @@
 name: "Pavlina Lejskova's Personal Website"
+description: ""
 
-markdown: kramdown
+url: "plejskova.github.io"
+
+defaults:
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
 
 permalink: /blog/:year/:month/:day/:title
